@@ -3,7 +3,7 @@ Naive Mid-Sentence Processing
 
 ![link parsing in real-time demo](mid-sentence.gif)
 
-I've implemented a small ruby script for the command line that repeatedly runs the link grammar parser every time a character is entered or deleted. To read more, check out [this post](https://gavrieltal.github.io/2018/08/14/link-grammar/)
+I've implemented a small ruby script for the command line that repeatedly runs the link grammar parser every time a character is entered or deleted. To read more, check out [this post](https://gavrieltal.github.io/2018/08/14/mid-sentence/)
 
 To run this program on your own Mac or Linux terminal, you'll need to install `ruby`, the command line tool `gem`, and the `linkparser` gem. On Debian/Ubuntu/derivatives, that should look like:
 ```
